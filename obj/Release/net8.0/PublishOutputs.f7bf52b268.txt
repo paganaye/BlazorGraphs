@@ -1,0 +1,2 @@
+/home/pascal/code/BlazorGraphs/build/vercel.json
+/home/pascal/code/BlazorGraphs/build/web.config
